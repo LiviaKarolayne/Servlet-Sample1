@@ -1,2 +1,2 @@
-# servlet_1
-Esse repositório permite a troca de "a/A por 4, e/E por 3, i/I por 1, o/O por 0, u/U por 2" em mensagens eviadas via get, a exemplo da palavra "Livia" que ficará "L1v14"
+#  Servlet Sample 1
+This repository allows the exchange of "a/A for 4, e/E for 3, i/I for 1, o/O for 0, u/U for 2" in messages sent via get, for example the word "Livia" which will become "L1v14"
